@@ -105,9 +105,9 @@
 
   <p align="center">
     &emsp;
-    <a href="https://www.hackerrank.com/profile/naveenrameshcud"><img alt="Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="https://leetcode.com/naveenrameshcud/"><img alt="Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
     &emsp;
-    <a href="https://leetcode.com/naveenrameshcud/"><img alt="Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+    <a href="https://www.hackerrank.com/profile/naveenrameshcud"><img alt="Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   </p>
 
   <ul align="center">
