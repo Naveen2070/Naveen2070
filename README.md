@@ -145,8 +145,5 @@
   </p>
 
   <!--profile visit count-->
-  <div align="center">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Naveen2070&icon=3&color=6" alt="Profile Visit Count" />
-    </a>
-  </div>
+  ![](https://komarev.com/ghpvc/?username=Naveen2070&color=brightgreen&label=PROFILE+VIEWS)
+
