@@ -103,9 +103,6 @@
       </td>
     </tr>
   </table>
-  <div align=center>
-    <img src="https://myreadme.vercel.app/api/embed/Naveen2070?panels=toplanguages,commitgraph" alt="reimaginedreadme" />
-  </div>
   <!--- stats (end) -->
 
   <!--- trophy (start) -->
