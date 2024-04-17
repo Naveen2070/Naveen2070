@@ -103,7 +103,9 @@
       </td>
     </tr>
     <tr>
+     <td width="100%" align="center">
       <img src="https://myreadme.vercel.app/api/embed/Naveen2070?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+     </td>
     </tr>
   </table>
   <!--- stats (end) -->
