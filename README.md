@@ -14,9 +14,9 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **React, React Native, Nextjs, Nodejs, Expressjs, MongoDB**
+- 🔭 I’m currently working on **React, React Native, Nextjs, Nodejs, Expressjs, MongoDB, Flutter**
 - ☁️ I've keen interest in Artifical Intelligence. So,I'm learning **Python**
-- 💬 Ask me about **React, React-Native, Nextjs, Nodejs, Expressjs, MongoDB, SQL ,PostgresSQL**
+- 💬 Ask me about **React, React-Native, Nextjs, Nodejs, Expressjs, Flutter, MongoDB, SQL ,PostgresSQLr**
 - 💥 You can visit [MY PORTFOLIO](https://naveen2070.github.io/portfolio).
 - 📫 Feel free to reach me out on [Gmail](mailto:naveenrameshcud@gmail.com).
 
@@ -72,6 +72,8 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
@@ -124,6 +126,9 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
+ <!--- trophy (end) -->
+
+<!--- stats & Trophy (end) -->
 
   <!--tech stack icons-->
   <p align="center">
