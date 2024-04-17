@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **React, React Native, Nextjs, Nodejs, Expressjs, MongoDB, Flutter**
 - ☁️ I've keen interest in Artifical Intelligence. So,I'm learning **Python**
-- 💬 Ask me about **React, React-Native, Nextjs, Nodejs, Expressjs, Flutter, MongoDB, SQL ,PostgresSQLr**
+- 💬 Ask me about **React, React-Native, Nextjs, Nodejs, Expressjs, Flutter, MongoDB, SQL ,PostgresSQL**
 - 💥 You can visit [MY PORTFOLIO](https://naveen2070.github.io/portfolio).
 - 📫 Feel free to reach me out on [Gmail](mailto:naveenrameshcud@gmail.com).
 
