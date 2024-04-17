@@ -103,7 +103,9 @@
       </td>
     </tr>
   </table>
-  <img src="https://myreadme.vercel.app/api/embed/Naveen2070?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <div align=center>
+    <img src="https://myreadme.vercel.app/api/embed/Naveen2070?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  </div>
   <!--- stats (end) -->
 
   <!--- trophy (start) -->
