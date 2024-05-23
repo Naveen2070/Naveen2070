@@ -137,7 +137,7 @@
   <!--tech stack icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,materialui,nodejs,express,graphql,mongodb,mysql,postgres,py,flask,java,c,cpp,git,github,bootstrap,figma,firebase,postman,vscode,androidstudio,androidstudio,dart,flutter,bun,arduino,babel,bash,powershell,md,discord,opencv,tensorflow,anaconda,&perline=14" />
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,materialui,nodejs,express,graphql,mongodb,mysql,postgres,py,flask,java,c,cpp,git,github,bootstrap,figma,firebase,postman,vscode,androidstudio,dart,flutter,bun,arduino,babel,bash,powershell,md,discord,opencv,tensorflow,anaconda,&perline=14" />
     </a>
   </p>
 
