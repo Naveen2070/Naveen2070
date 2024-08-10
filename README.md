@@ -49,6 +49,7 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
@@ -137,7 +138,7 @@
   <!--tech stack icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,materialui,nodejs,express,graphql,mongodb,mysql,postgres,py,flask,java,c,cpp,git,github,bootstrap,figma,firebase,postman,vscode,androidstudio,dart,flutter,bun,arduino,babel,bash,powershell,md,discord,opencv,tensorflow,anaconda,&perline=14" />
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,materialui,nodejs,express,nestjs,graphql,mongodb,mysql,postgres,py,flask,java,c,cpp,git,github,bootstrap,figma,firebase,postman,vscode,androidstudio,dart,flutter,bun,arduino,babel,bash,powershell,md,discord,opencv,tensorflow,anaconda,&perline=14" />
     </a>
   </p>
 
