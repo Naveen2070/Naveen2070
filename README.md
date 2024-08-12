@@ -83,6 +83,7 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> 
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" />
@@ -145,7 +146,7 @@
   <!--tech stack icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,materialui,bootstrap,pug,nodejs,bun,express,nestjs,graphql,mongodb,mysql,postgres,redis,py,flask,java,c,cpp,dart,flutter,git,github,vscode,androidstudio,firebase,postman,figma,discord,npm,webpack,jest,bash,powershell,md,arduino,babel,opencv,tensorflow,anaconda&perline=14" />
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,materialui,bootstrap,pug,nodejs,bun,express,nestjs,graphql,mongodb,mysql,postgres,redis,py,flask,java,c,cpp,dart,flutter,git,github,vscode,androidstudio,firebase,postman,figma,discord,npm,webpack,jest,bash,powershell,md,arduino,babel,opencv,tensorflow,docker,anaconda&perline=14" />
     </a>
   </p>
 
