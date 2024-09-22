@@ -32,6 +32,7 @@
     <br>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
     <img width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   </kbd>
@@ -40,7 +41,8 @@
     <br>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   </kbd>
   <kbd>
@@ -66,6 +68,8 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+    <img wisth="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
@@ -146,7 +150,7 @@
   <!--tech stack icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,materialui,bootstrap,pug,nodejs,bun,express,nestjs,graphql,mongodb,mysql,postgres,redis,py,flask,java,c,cpp,dart,flutter,git,github,vscode,androidstudio,firebase,postman,figma,discord,npm,webpack,jest,bash,powershell,md,arduino,babel,opencv,tensorflow,docker,anaconda&perline=14" />
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,nextjs,reactivex,materialui,bootstrap,pug,nodejs,bun,express,nestjs,graphql,mongodb,mysql,postgres,go,redis,py,flask,java,c,cpp,dart,flutter,git,github,vscode,androidstudio,firebase,postman,figma,discord,npm,webpack,jest,bash,powershell,md,arduino,babel,opencv,tensorflow,docker,anaconda&perline=14" />
     </a>
   </p>
 
