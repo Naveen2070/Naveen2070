@@ -117,9 +117,9 @@
   <table align="center"> 
     <tr border="none"> 
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naveen2070&theme=dark&show_icons=true&count_private=true" /> 
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Naveen2070&theme=dark&show_icons=true&count_private=true" /> 
         <br></br> 
-    <img src="https://streak-stats.demolab.com?user=Naveen2070&theme=dark" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats-eight.vercel.app?user=Naveen2070&theme=dark" alt="GitHub Streak" />
   </td> 
     <td width="50%" align="center"> 
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Naveen2070&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
@@ -130,7 +130,7 @@
 
   <!--- trophy (start) -->
   <div align=center>
-    <img src="https://github-profile-trophy.vercel.app/?username=Naveen2070&theme=juicyfresh&no-bg=true" />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app?username=Naveen2070&theme=juicyfresh&no-bg=true&rank=-UNKNOWN," />
   </div>
 
   <ul align="center">
