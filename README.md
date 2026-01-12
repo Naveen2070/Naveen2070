@@ -14,11 +14,12 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **React, React Native, Expressjs, NestJS, Spring Boot, MongoDB, PostgreSQL**
-- ☁️ I've keen interest in Artifical Intelligence. So,I'm learning **Python**
-- 💬 Ask me about **React, React-Native, Nestjs, Nodejs, Expressjs, Flutter, MongoDB, SQL ,PostgresSQL, Docker, Spring Boot**
-- 💥 You can visit [MY PORTFOLIO](https://naveen2070.github.io/portfolio).
-- 📫 Feel free to reach me out on [Gmail](mailto:naveenrameshcud@gmail.com).
+- 🚀 Full-stack developer working with **React, React Native, NestJS, Express & Spring Boot**
+- 🛢️ Experienced in **MongoDB, PostgreSQL & SQL-based systems**
+- 🤖 Actively learning **AI & Machine Learning with Python**
+- 💬 Happy to discuss **React, Node.js, NestJS, Docker, PostgreSQL, Spring Boot**
+- 🌐 Portfolio: [naveen2070.github.io/portfolio](https://naveen2070.github.io/portfolio)
+- 📫 Contact: **[naveenrameshcud@gmail.com](mailto:naveenrameshcud@gmail.com)**
 
 <div id="user-content-toc">
   <ul align="center">
