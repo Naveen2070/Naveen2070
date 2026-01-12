@@ -14,9 +14,9 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **React, React Native, Nextjs, Nodejs, Expressjs, MongoDB, Flutter**
+- 🔭 I’m currently working on **React, React Native, Expressjs, NestJS, Spring Boot, MongoDB, PostgreSQL**
 - ☁️ I've keen interest in Artifical Intelligence. So,I'm learning **Python**
-- 💬 Ask me about **React, React-Native, Nextjs, Nestjs, Nodejs, Expressjs, Flutter, MongoDB, SQL ,PostgresSQL, Docker**
+- 💬 Ask me about **React, React-Native, Nestjs, Nodejs, Expressjs, Flutter, MongoDB, SQL ,PostgresSQL, Docker, Spring Boot**
 - 💥 You can visit [MY PORTFOLIO](https://naveen2070.github.io/portfolio).
 - 📫 Feel free to reach me out on [Gmail](mailto:naveenrameshcud@gmail.com).
 
@@ -33,7 +33,7 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-    <img width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   </kbd>
   <kbd>
@@ -43,7 +43,7 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
@@ -52,7 +52,8 @@
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />  
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   </kbd>
   <br>
   <br>
@@ -86,13 +87,14 @@
     <br>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> 
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" />
   </kbd>
@@ -154,7 +156,7 @@
   <!--tech stack icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,nextjs,reactivex,materialui,bootstrap,pug,nodejs,bun,express,nestjs,graphql,mongodb,mysql,postgres,go,redis,py,flask,java,c,cpp,dart,flutter,git,github,vscode,androidstudio,firebase,postman,figma,discord,npm,webpack,jest,bash,powershell,md,arduino,babel,opencv,tensorflow,docker,anaconda&perline=14" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,md,react,nextjs,angular,redux,htmx,materialui,bootstrap,tailwind,pug,nodejs,bun,express,nestjs,graphql,spring,ktor,flask,fastapi,dotnet,mongodb,mysql,postgres,redis,prisma,rabbitmq,firebase,java,kotlin,go,py,cs,dart,flutter,androidstudio,git,github,npm,webpack,vite,babel,jest,cypress,docker,nginx,deno,vscode,visualstudio,idea,eclipse,figma,postman,discord,bash,powershell,opencv,tensorflow,anaconda,arduino&perline=14" />
     </a>
   </p>
 
