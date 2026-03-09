@@ -3,7 +3,7 @@
   <h3>✨ Know more about me at <a href="https://naveenr.in"><b>naveenr.in</b></a> ✨</h3>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Marcellus&duration=3000&pause=100&color=13B5F7&center=true&random=false&width=435&lines=Full+Stack+Engineer;Backend+Specialist;Performance+Optimizer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Marcellus&duration=3000&pause=100&color=13B5F7&center=true&random=false&width=520&lines=T-Shaped+Software+Engineer;Frontend+Origins+%7C+Backend+Depth;UI+Systems+%26+Design+Thinking;Scalable+Systems+Architect;Microservices+%7C+Domain-Driven+Design" alt="Typing SVG" />
   </a>
 </div>
 
