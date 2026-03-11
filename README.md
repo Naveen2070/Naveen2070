@@ -33,58 +33,13 @@ I am a **Full Stack Engineer** passionate about building robust, scalable, and h
 
 **The tools and technologies I use to build and ship code every day:**
 
-**Languages**
+| Languages | Frontend | Backend |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=ts,js,kotlin,java" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" /><br><img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" /> <img src="https://img.shields.io/badge/-Zustand-443E38?style=flat-square&logo=react&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs" /><br><img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=00CFE8" /> <img src="https://img.shields.io/badge/-Consul-FF4081?style=flat-square&logo=consul&logoColor=white" /> |
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,ts,js" />
-  </a>
-</p>
-
-**Frontend**
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-  </a>
-</p>
-
-**Backend**
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs" />
-  </a>
-</p>
-
-**Databases**
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-  </a>
-</p>
-
-**Tools & DevOps**
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,githubactions,jest,git" />
-  </a>
-</p>
-
-**Specialized Frameworks & Enterprise Tools:**
-
-<p>
-  <img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Liquibase-B83B3D?style=flat-square&logo=liquibase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Consul-FF4081?style=flat-square&logo=consul&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=00CFE8" />
-  <img src="https://img.shields.io/badge/-Microservices-BF0A30?style=flat-square&logo=spring&logoColor=white" />
-</p>
+| Databases | DevOps & CI/CD | Testing |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=postgres,mongodb" /><br><img src="https://img.shields.io/badge/-Liquibase-B83B3D?style=flat-square&logo=liquibase&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=docker,githubactions,git" /> | <img src="https://skillicons.dev/icons?i=jest,vitest" /><br><img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" /> |
 
 </div>
 
@@ -144,68 +99,17 @@ I am a **Full Stack Engineer** passionate about building robust, scalable, and h
 
 <div align="center">
 
-**Programming Languages**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,ts,js,py,go,dart,cs" />
-  </a>
-</p>
+| Languages | Frontend Frameworks & UI | Backend & APIs |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=kotlin,java,ts,js,py,go,cs" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,html,css,bootstrap,materialui,figma" /><br><img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" /> <img src="https://img.shields.io/badge/-TanStack%20Router-FF4154?style=flat-square&logo=react-query&logoColor=white" /> <img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,dotnet,fastapi,graphql,bun,deno" /> |
 
-**Frontend Frameworks & UI**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,html,css,bootstrap,materialui,figma" />
-  </a>
-</p>
+| Databases | Cloud Native & DevOps | Testing |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,firebase" /> | <img src="https://skillicons.dev/icons?i=docker,nginx,rabbitmq,githubactions,jenkins,git" /> | <img src="https://skillicons.dev/icons?i=jest,cypress,vitest" /><br><img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" /> <img src="https://img.shields.io/badge/-xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> |
 
-**Backend & API Development**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,dotnet,fastapi,graphql" />
-  </a>
-</p>
-
-**Architecture & Cloud Native**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,rabbitmq" />
-  </a>
-</p>
-
-**Databases & Data Management**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,firebase" />
-  </a>
-</p>
-
-**DevOps & CI/CD**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
-  </a>
-</p>
-
-**Testing & Verification**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,cypress" />
-  </a>
-</p>
-
-**AI/ML & Vision**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />
-  </a>
-</p>
-
-**Build Tools & Environment**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,webpack,babel,postman,vscode,idea" />
-  </a>
-</p>
+| AI / ML & Vision | Build Tools & Environment |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" /> | <img src="https://skillicons.dev/icons?i=gradle,webpack,babel,postman,vscode,idea" /> |
 
 </div>
 
