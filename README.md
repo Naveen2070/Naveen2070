@@ -12,7 +12,7 @@
   <a href="mailto:naveenrameshcud@gmail.com">Email</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Naveen2070&color=lightgrey&style=flat-square&label=views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Naveen2070&color=blue&style=flat-square&label=views" alt="profile views" />
 
 </div>
 
