@@ -3,8 +3,8 @@
 <img src="assets/terminal-banner.svg" width="100%" alt="Naveen R — neofetch style terminal banner" />
 
 <br>
-
 <a href="https://naveenr.in">naveenr.in</a> · <a href="https://linkedin.com/in/naveen-r-cud">LinkedIn</a> · <a href="mailto:naveenrameshcud@gmail.com">Email</a>
+<br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Naveen2070&color=39d15c&style=flat-square&label=views" alt="profile views" />
 
