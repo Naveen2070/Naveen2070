@@ -1,70 +1,62 @@
 <div align="center">
 
-# Naveen R
+<img src="assets/terminal-banner.svg" width="100%" alt="Naveen R — neofetch style terminal banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Marcellus&duration=3000&pause=100&color=13B5F7&center=true&random=false&width=520&lines=T-Shaped+Software+Engineer;Frontend+Origins+%7C+Backend+Depth;Scalable+Systems+Architect;Microservices+%7C+Domain-Driven+Design" alt="Typing SVG" />
-</a>
+<br>
 
-<p>
-  <a href="https://naveenr.in">naveenr.in</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/naveen-r-cud">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:naveenrameshcud@gmail.com">Email</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Naveen2070&color=blue&style=flat-square&label=views" alt="profile views" />
+<a href="https://naveenr.in">naveenr.in</a> · <a href="https://linkedin.com/in/naveen-r-cud">LinkedIn</a> · <a href="mailto:naveenrameshcud@gmail.com">Email</a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Naveen2070&color=39d15c&style=flat-square&label=views" alt="profile views" />
 
 </div>
 
 <br>
 
-## About
+<details open>
+<summary><code>~$ cat about.md</code></summary>
+<br>
 
-Full Stack Engineer building robust, scalable, high-performance systems — with depth in
-**Backend Architecture** (Distributed Systems, Microservices, Concurrency Control) and
-**Modern Frontend Engineering**.
+Full Stack Engineer building robust, scalable, high-performance systems — with depth in **backend architecture** (distributed systems, microservices, concurrency control) and **modern frontend engineering**.
 
-- Strong foundation in **System Design, DDD, SOLID**, and **Cloud Infrastructure**.
-- Currently advancing in **Cloud-Native Architecture, Distributed Systems**, and **AI/ML** at scale.
-- B.E. in Electronics and Communication Engineering.
+- Strong foundation in System Design, DDD, SOLID, and Cloud Infrastructure
+- Currently advancing in Cloud-Native Architecture, Distributed Systems, and AI/ML at scale
+- B.E. in Electronics and Communication Engineering
+
+</details>
+
+<details open>
+<summary><code>~$ cat stack.txt</code></summary>
+<br>
+
+```
+language   TypeScript · JavaScript · Kotlin · Java
+frontend   React · Next.js · Tailwind CSS · Redux · TanStack Query · Zustand
+backend    Spring Boot · NestJS · Node.js · JWT · Consul
+database   PostgreSQL · MongoDB · Liquibase
+devops     Docker · GitHub Actions · Git
+testing    Jest · Vitest · JUnit5
+```
+
+</details>
 
 <br>
 
-## Stack
+<code>~$ ls pinned/</code>
+&nbsp;&nbsp;→ pinned repos are up on the profile ↑ — **[Min-Mozhi](https://github.com/Naveen2070)** and more live there, not duplicated here.
+
+<br>
 
 <div align="center">
 
-| Languages | Frontend | Backend |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=ts,js,kotlin,java" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" /><br><img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" /> <img src="https://img.shields.io/badge/-Zustand-443E38?style=flat-square&logo=react&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs" /><br><img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=00CFE8" /> <img src="https://img.shields.io/badge/-Consul-FF4081?style=flat-square&logo=consul&logoColor=white" /> |
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Naveen2070&theme=dark&show_icons=true&count_private=true&hide_border=true&title_color=39d15c&icon_color=39d15c&text_color=c8ffd8&bg_color=0d1117" height="160" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Naveen2070&theme=dark&hide_border=true&layout=compact&langs_count=8&title_color=39d15c&text_color=c8ffd8&bg_color=0d1117" height="160" />
 
-| Databases | DevOps & CI/CD | Testing |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=postgres,mongodb" /><br><img src="https://img.shields.io/badge/-Liquibase-B83B3D?style=flat-square&logo=liquibase&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=docker,githubactions,git" /> | <img src="https://skillicons.dev/icons?i=jest,vitest" /><br><img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" /> |
-
-</div>
-
-<br>
-
-## Projects
-
-**[The Hive Project](https://github.com/Naveen2070)** — Full-stack social platform (Kotlin · Spring Boot · React). Optimistic Locking and a custom Token Bucket rate limiter.
-
-**[Project Chimera](https://github.com/Naveen2070)** — Polyglot microservices orchestrating .NET, Java, and Node.js services via Consul.
-
-<br>
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Naveen2070&theme=dark&show_icons=true&count_private=true&hide_border=true" height="160" />
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Naveen2070&theme=dark&hide_border=true&layout=compact&langs_count=8" height="160" />
+<br><br>
 
 </div>
 
 <br>
 
 <div align="center">
-  <sub><i>"It's not a bug, it's an undocumented feature."</i></sub>
+  <code>[naveen@github ~]# echo "It's not a bug, it's an undocumented feature."</code>
 </div>
