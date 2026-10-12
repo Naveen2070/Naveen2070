@@ -42,17 +42,15 @@ x-powered-by: coffee
  4098  naveen  S      1.2  ...        more projects → see pinned repositories
 ```
 
-### `~$ cat known-stack.json`
+### `~$ cat known-stack.yaml`
 
-```json
-{
-  "language": ["TypeScript", "Kotlin", "C#", "Rust"],
-  "frontend": ["React", "Next.js", "Tailwind CSS", "Redux", "TanStack", "Zustand"],
-  "backend":  ["Spring Boot", "NestJS", ".NET"],
-  "database": ["PostgreSQL", "MongoDB", "Liquibase"],
-  "devops":   ["Docker", "GitHub Actions", "Git"],
-  "testing":  ["Jest", "Vitest", "JUnit5", "Playwright"]
-}
+```yaml
+language: [TypeScript, Kotlin, C#, Rust]
+frontend: [React, Next.js, Tailwind CSS, Redux, TanStack, Zustand]
+backend:  [Spring Boot, NestJS, .NET]
+database: [PostgreSQL, MongoDB, Liquibase]
+devops:   [Docker, GitHub Actions, Git]
+testing:  [Jest, Vitest, JUnit5, Playwright]
 ```
 
 <!-- stats cards (hidden for now)
